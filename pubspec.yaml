@@ -30,15 +30,43 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # State Management
+  flutter_riverpod: ^2.4.9
+
+  # Local Database
+  sqflite: ^2.3.0
+  path: ^1.8.3
+
+ # HTTP Client
+  http: ^1.1.0
+  
+  # Connectivity
+  connectivity_plus: ^5.0.1
+  
+  # UUID Generation
+  uuid: ^4.1.0
+  
+  # JSON Serialization
+  json_annotation: ^4.8.1
+
+  # UI
+  intl: ^0.18.1
+  cupertino_icons: ^1.0.8
+
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.8
+
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  # Code Generation
+  # Lint rules
 
+  # Code generation
+  build_runner: ^2.4.6
+  json_serializable: ^6.7.1
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your

@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Tarea de ejemplo",
+      "completed": false,
+      "updatedAt": "2025-11-16T21:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Revisar documentación de Riverpod",
+      "completed": true,
+      "updatedAt": "2025-11-15T14:30:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Implementar sincronización offline",
+      "completed": false,
+      "updatedAt": "2025-11-16T09:15:00.000Z"
+    },
+    {
+      "id": "00ced022-f91c-4983-8fb0-401a518cc05d",
+      "title": "Tarea de ingles",
+      "completed": true,
+      "updated_at": "2025-11-16T23:36:37.476564",
+      "deleted": false
+    },
+    {
+      "id": "ab46be53-ebdf-4062-9686-f6b524ca14ea",
+      "title": "Moviles",
+      "completed": true,
+      "updated_at": "2025-11-16T23:41:57.841553",
+      "deleted": false
+    }
+  ]
+}
