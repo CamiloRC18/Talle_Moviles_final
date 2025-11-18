@@ -2,15 +2,6 @@
 
 Una aplicación Flutter de lista de tareas con soporte offline-first, sincronización con backend y gestión de estado con Riverpod.
 
-## 🚀 Características
-
-- ✅ Crear, editar, marcar como completadas y eliminar tareas
-- 🔄 Sincronización automática con backend
-- 📱 Soporte offline-first con SQLite
-- 🔌 Cola de operaciones para sincronización diferida
-- 🎯 Filtros: Todas, Pendientes, Completadas
-- ⚡ Gestión de estado con Riverpod
-- 🛡️ Manejo robusto de errores
 
 ## 📋 Requisitos Previos
 
@@ -161,26 +152,6 @@ La aplicación maneja:
 
 Todos los errores muestran mensajes claros al usuario mediante SnackBars.
 
-## 🔒 Consideraciones de Seguridad
-
-- Uso de `Idempotency-Key` para evitar duplicaciones
-- Validación de entrada en formularios
-- Sanitización de datos antes de guardar
-
-## 📝 Mejoras Futuras
-
-- [ ] Autenticación de usuarios
-- [ ] Categorías de tareas
-- [ ] Recordatorios y notificaciones
-- [ ] Búsqueda de tareas
-- [ ] Modo oscuro
-- [ ] Exportar/Importar tareas
-- [ ] Métricas de productividad
-
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir los cambios que te gustaría hacer.
-
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
+# 👤 Datos del Estudiante
+- Camilo Rios Cardona
+- Codigo: 230221047
